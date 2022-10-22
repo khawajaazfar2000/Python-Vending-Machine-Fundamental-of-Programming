@@ -5,6 +5,6 @@
 <h1 align="center"> Project Summary of Python Vending Machine</h1>
 
 ### 🗣 About Vending Machine🔥.
--A vending machine is an automated machine that provides items such as snacks, beverages, cigarettes and lottery tickets to consumers after cash, a credit card, or a specially designed card is inserted into the machine. The first modern vending machines were developed in England in the early 1880s and dispensed postcards. Vending machines exist in many countries, and in more recent times, specialized vending machines that provide fewer common products compared to traditional vending machine items have been created.
+- A vending machine is an automated machine that provides items such as snacks, beverages, cigarettes and lottery tickets to consumers after cash, a credit card, or a specially designed card is inserted into the machine. The first modern vending machines were developed in England in the early 1880s and dispensed postcards. Vending machines exist in many countries, and in more recent times, specialized vending machines that provide fewer common products compared to traditional vending machine items have been created.
 
 
